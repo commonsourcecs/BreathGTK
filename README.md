@@ -3,7 +3,6 @@
 # Requirements
 
 - GTK+ 3.16
-- Pixmap/Pixbuf theme engine for GTK 2
 
 # Install instructions
 If your distribution doesn't provide a package, you can install the theme system-wide by copying it to the appropriate directory, usually "/usr/share/themes".
