@@ -6,7 +6,7 @@
 # File structure based on Axiom xfwm theme by Rogier Koppejan.
 
 
-active_text_color=#F9F9F9
+active_text_color=#cecece
 button_offset=3
 button_spacing=4
 full_width_title=true
