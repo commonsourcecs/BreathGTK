@@ -1,5 +1,5 @@
-# Theme:       Breeze-gtk
-# Description: Breeze theme for GTK+2.0
+# Theme:BreathGTK
+# Description: Breath theme for GTK+2.0
 
 gtk-color-scheme = "text_color:#f9f9f9"
 gtk-color-scheme = "base_color:#292f34"
